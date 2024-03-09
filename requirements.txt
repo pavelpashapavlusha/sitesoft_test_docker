@@ -1,0 +1,14 @@
+# python3 -m venv venv
+# source venv/bin/activate - mac
+# venv\Scripts\activate - win
+# pip install --upgrade pip
+Django==3.2.2
+djangorestframework==3.12.4
+requests==2.26.0
+setuptools
+requests
+bs4
+lxml
+selenium
+selenium-stealth
+schedule
